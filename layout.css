@@ -1,0 +1,240 @@
+/* Add layout here */
+/* Add site styles here */
+@import url('https://fonts.googleapis.com/css?family=Srisakdi');
+
+/* LAYOUT 1 */
+/* body{
+    display: grid;
+    background-color: #85DCB8;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+header h1 {
+    font-family: 'Srisakdi', cursive;
+    text-decoration: underline;
+    color: #e8a87c;
+    grid-column:1/6;
+    
+}
+
+main{
+    border: 5px;
+    border-style: solid;
+    background-color:#e8a87c;
+    grid-row: 2/5;
+    grid-column:1/4;
+    
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.navigation{
+    background-color: #c38d9e;
+    border: 5px;
+    border-style: solid;
+    grid-column:4/6;
+    grid-row:1/5;   
+}
+
+.links{
+    background-color: #41b3a3;
+    border: 5px;
+    border-style: solid;
+    grid-row:5;
+    grid-column:1/6;
+}
+
+.links li{
+    display:inline-block;
+}
+
+footer{
+    background-color:#e8a87c;
+    border: 5px;
+    border-style: solid;
+    grid-column:1/6;
+    grid-row:6;
+} */
+
+/* LAYOUT 2 */
+
+/* body{
+    display: grid;
+    background-color: #85DCB8;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+header h1 {
+    font-family: 'Srisakdi', cursive;
+    text-decoration: underline;
+    color: #e8a87c;
+    grid-column:1/6;
+    
+}
+
+main{
+    border: 5px;
+    border-style: solid;
+    background-color:#e8a87c;
+    grid-row: 2/6;
+    grid-column:1/4;
+    
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.navigation{
+    background-color: #c38d9e;
+    border: 5px;
+    border-style: solid;
+    grid-column:4/6;
+    grid-row:1/5;   
+}
+
+.links{
+    background-color: #41b3a3;
+    border: 5px;
+    border-style: solid;
+    grid-row:5;
+    grid-column:4/6;
+}
+
+
+footer{
+    background-color:#e8a87c;
+    border: 5px;
+    border-style: solid;
+    grid-column:1/6;
+    grid-row:6;
+} */
+
+
+
+/*LAYOUT 3*/
+/* 
+body{
+    display: grid;
+    background-color: #85DCB8;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+header h1 {
+    font-family: 'Srisakdi', cursive;
+    text-decoration: underline;
+    color: #e8a87c;
+    grid-column:1/5;
+    
+}
+
+main{
+    border: 5px;
+    border-style: solid;
+    background-color:#e8a87c;
+    grid-row: 3/6;
+    grid-column:2/5;
+    
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.navigation{
+    background-color: #c38d9e;
+    border: 5px;
+    border-style: solid;
+    grid-column:1/2;
+    grid-row:3/6;   
+}
+
+.links{
+    background-color: #41b3a3;
+    border: 5px;
+    border-style: solid;
+    grid-row:3/6;
+    grid-column:5/6;
+}
+
+footer{
+    background-color:#e8a87c;
+    border: 5px;
+    border-style: solid;
+    grid-column:1/6;
+    grid-row:2;
+    color: red;
+}
+
+ */
+
+/* Layout 4 */
+/* body{
+    display: grid;
+    background-color: #85DCB8;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+header h1 {
+    font-family: 'Srisakdi', cursive;
+    text-decoration: underline;
+    color: #e8a87c;
+    grid-column:1/5;
+    
+}
+
+main{
+    border: 5px;
+    border-style: solid;
+    background-color:#e8a87c;
+    grid-row: 2/6;
+    grid-column:3/5;
+    
+}
+
+h2{
+    text-decoration: underline;
+}
+
+.navigation{
+    background-color: #c38d9e;
+    border: 5px;
+    border-style: solid;
+    grid-column:1/2;
+    grid-row:2/6;   
+}
+
+.links{
+    background-color: #41b3a3;
+    border: 5px;
+    border-style: solid;
+    grid-row:2/6;
+    grid-column:5/6;
+}
+
+footer{
+    background-color:#e8a87c;
+    border: 5px;
+    border-style: solid;
+    grid-column:1/6;
+    grid-row:6;
+    color: red;
+} */
+
+
+
+
+/* 
+COMMENTS
+Struggled to pull out the 2nd paragraph
+main article h2 p p{
+    grid-row:2/3;
+    grid-column:2/3;
+    border: 5px;
+    border-style: solid;
+    background-color:white
+}
+
+*/
